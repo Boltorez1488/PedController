@@ -1,6 +1,8 @@
 # PedController
 Grand Theft Auto V (Mod) - Allows you to move into any ped, control it, arrange fun, break scenarios. Not convenient for everyone, you can redo :grinning:
 
+Menu language is Russian :ru:
+
 **Required libs: LemonUI, GTA**
 
 # Hotkeys:
